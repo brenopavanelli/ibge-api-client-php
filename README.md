@@ -35,15 +35,3 @@ Este projeto foi construído utilizando as seguintes tecnologias e conceitos:
     * Princípio de Design de Software: **Separação de Responsabilidades (SoC)**.
     * Protocolo **HTTP** (Método GET).
 
-## ⚙️ Como Executar
-
-Para executar este projeto localmente, siga os passos abaixo:
-
-**1. Pré-requisitos:**
-* Ter um ambiente de servidor local instalado, como [XAMPP](https://www.apachefriends.org/pt_br/index.html) ou um stack LAMP/WAMP.
-* Garantir que a extensão **cURL** do PHP esteja habilitada no seu ambiente.
-
-**2. Clone o repositório:**
-```bash
-# Clone este repositório na pasta de projetos do seu servidor web
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
